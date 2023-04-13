@@ -17,11 +17,6 @@ To run this app:
 run -> npm install
 
 ## Usage
-
 node server.js
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Below is video link to how to use.
+[Untitled_ Apr 12, 2023 11_44 PM.webm](https://user-images.githubusercontent.com/122936654/231676624-0f5fc9ff-824f-42b6-aea0-110de6710f56.webm)
